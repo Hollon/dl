@@ -1,1 +1,2 @@
-this is a git.
+import torch
+print(torch.cuda.is_available())
